@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#content {
+  font-size: 88px;
+}
+
+#img {
+  width: 400px;
+  height: 400px;
+}
+
+#gallery img {
+  width: 100px;
+  height: 100px;
+}
